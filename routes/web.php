@@ -10,8 +10,3 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-Route::get('show', function () {  });
-Route::get('show/{id}', function () {  });
-Route::post('create', function () {  });
-Route::put('edit/{id}', function () {  });
-Route::post('delete/{id}', function () {  });
